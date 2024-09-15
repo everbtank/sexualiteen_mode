@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "22370141265",
+    "firebase_url": "https://appsexteen-default-rtdb.firebaseio.com",
+    "project_id": "appsexteen",
+    "storage_bucket": "appsexteen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22370141265:android:04196952441f0f2a266470",
+        "android_client_info": {
+          "package_name": "com.ihub.sexteen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22370141265-i5vi8k0vs2838d90napcpqn0qm1rut0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ihub.sexteen",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "22370141265-rt3hefo1r3q3n95jfbra1c5aunu6eslf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ihub.sexteen",
+            "certificate_hash": "490b38feeff784dee6b1878bd97851000c5cfb29"
+          }
+        },
+        {
+          "client_id": "22370141265-d0f9btts2c1ti7hpv6ri2he4mfmdoj52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6xeWAaEYUWvll8X8RueOYWU2ifIy3gAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22370141265-6otpbuioqc1lik91j7pvb7vqf5rbjibo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "22370141265-ne6svilkhcu7fb3vvm3p2i0rt522g1mb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ihub.sexteen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
